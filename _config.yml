@@ -1,6 +1,6 @@
 theme: just-the-docs
 color_scheme: dark
-url: https://destinyweaves.github.io/Guidebook/
+url: https://destinyweaves.github.io/
 plugins:
   - jekyll-default-layout
   - jekyll-remote-theme
