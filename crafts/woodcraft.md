@@ -1,6 +1,7 @@
 ---
 title: Woodcraft
 parent: Crafts
+nav_order: 50
 ---
 
 # Woodcraft
