@@ -1,6 +1,7 @@
 ---
 title: Whers
 parent: Animals and Plants
+nav_order: 20
 ---
 
 # Watch-whers of Pern
@@ -64,9 +65,9 @@ Note: Dragons at Destiny Weaves measured from the peak of the shoulder to the gr
 ## Impression
 
 {: .important }
-> No Sexuality Based Impression
+> Impression preference does not care about the human's biological sex.
 
-[^nobio]: Impression preference does not care about biological gender.
+[^nobio]: Impression preference does not care about biological sex.
 
 Whers tend to prefer Holdfolk when bonding. 
 
@@ -84,6 +85,7 @@ The clutch outcome is determined by what colour **MALE** catches the rising fema
 #### Exceptions
 
 **Scaled** & **Velvet** are mutually exclusive mutations. You can not breed scaled and velvet together.
+
 **Pearled** & **Bioluminescent** are mutually exclusive mutations. You can not breed Pearled and Bioluminescent together.
 
 Feathers, extra limbs are lethal mutations.
@@ -222,7 +224,7 @@ Sex
 : Male
 
 Impression
-: Tends to impress to men more, but will impress women.
+: Tends to impress to men more, but will impress women.[^nobio]
 
 Clutch
 : N/A
@@ -250,7 +252,7 @@ Sex
 : Female
 
 Impression
-: Tends to prefer women but will impress to men as well. [^nobio]
+: Tends to prefer women but will impress to men as well.[^nobio]
 
 Clutch
 : 1-6 eggs

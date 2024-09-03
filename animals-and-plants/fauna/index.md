@@ -1,6 +1,7 @@
 ---
 title: Flora
 parent: Animals and Plants
+nav_order: 40
 ---
 
 # Fauna of Pern

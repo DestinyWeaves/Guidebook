@@ -1,5 +1,6 @@
 ---
 title: Crafts
+nav_order: 30
 ---
 
 # Basic overview of Crafts
