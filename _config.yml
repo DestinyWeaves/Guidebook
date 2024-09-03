@@ -1,9 +1,12 @@
+theme: just-the-docs
+color_scheme: dark
+nav_enabled: true
+url: https://destinyweaves.github.io/Guidebook/
+plugins:
+  - jekyll-default-layout
+
 title: Destiny Weaves Guidebook
 description: Guidebook for the Destiny Weaves Pern Roleplay Game on JcInk
-theme: just-the-docs
-
-url: https://destinyweaves.github.io/Guidebook/
-
 aux_links:
   Forum: https://destinyweaves.jcink.net/
   Discord: https://discord.gg/4SgEpuzqYR
