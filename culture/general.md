@@ -70,34 +70,4 @@ Braids can be used to signal other things, this varies from hold to hold, some p
 
 How a bead is set: its height, the position in a string of beads, and sometimes even the design might have particular meaning [Submit Your Ideas, Dear Players].
 
-## Crimes and Punishment
-Slavery <b>does not</b> exist on Pern. The colonists were from a seemingly post-scarcity society(Star Trek-like). All accused have the right to a fair trial. No punishments are dished out until the offending party is proven guilty by a jury of Harpers [See Harper under Crafts for more information].  So thieves are given jobs and purpose and retrained to try and bring the behaviour to a stop. Punishments are only dished out to those who refuse to change their ways.
-
-Pernese culture generally works on the premise of rehabilitation rather than punishment.
-If the party can not be proven guilty beyond a shadow of a doubt, then they will be moved to a different cothold away from the accusatory parties to see if the suspected behavior continues.
-
-<h5>Perjury and lying</h5> is a crime that is considered the MOST heinous of crimes. With a society that is based on truth in many regards, this goes against everything that they hold dear. Children telling white lies are pulled up very sharply and taught that it's far better to admit wrongdoing than to lie. Adults caught lying are disfigured to show their crime. A small triangle is cut out of both nostrils. They are then removed from the Hold, usually dumped out on the outskirts of the Hold, and kept under Guard to ensure they do not attempt to cause problems. If they continue to cause problems then they are made Holdless.
-<h5>Petty Theft</h5> - there’s usually nothing more than a slap on the wrist. However, if a repeated history is shown then it’ll step up to putting a brand [looks like a hashtag] on the top of hand. If the thefts continue after that, then a Hold may decide to remove the hand of the thief.
-If a history of abuse is proven for divorce, then Harpers will get together to decide on a suitable punishment. Usually, the abuser is marked with a serrated cut to the cheek from under the jaw to an inch below the eye. Then the Abuser is usually thrown out of the Hold.
-
-### Crimes on Pern - TW: All possible violent/sexual crimes and their punishments
-
-<h5>Rapists</h5> - Once proven guilty, dependant on gender will determine the punishment and what the guilty are given a choice become holdless or face the punishment. Men are physically castrated with a herdbeast band around their testes. Women are sewn with only a small gap to allow menstrual flow. <b>This is a very serious crime and is not tolerated.</b> Until all injures are healed from punishment, the guilty are kept under watch in the infirmary.
-<h5>Murderers</h5>
-<h5>Slavery</h5> attempts at forced servitude are often met with swift justice. The enslaver is often removed from the hold. Marked with a brand, and his crime notated in the records along with appearance & age at the time of the crime.
-<h5>Pedophilia</h5> [forced sexual contact of a person under the age of 16] is the only crime on Pern that once proven is an instant death sentence. However, if the victim was found to have lied about their age, they will face perjury charges. The accused then go under Guard around the Hold and serve as indentured servants to show their remorse if the victim was found to have lied about their age.
-<h5>Bullying</h5> is more of a childhood crime, although it has been known to happen with adults. Generally this is just punished with making the guilty party go their victims' chores and aid them around the Hold/Weyr/Crafthall, repeated offences will result in a fine and punitive chores [sewer systems as an example].
-<h5>Assault</h5> punishment
-<h5>Domestic Abuse</h5> is treated a little differently. With many wives and Lady holders under constant watch from Harpers and the general public it has made it so that Domestic Abuse is rare. However on the rare occurrence, if found guilty, the injured party is allowed to put a mark upon the cheek of their abuser [usually with a small blade under the watch of a healer] to permanently mark them as one who abused their spouse. As Domestic abuse is viewed as such a heinous crime by Pern at large, its not unusual for the Holders to reject the abuser and expel them from the Hold even if they've served for their crime.
-<h5>Self Defence</h5> is not punished as the victim was just defending themselves. However, reasonable force does come into play. Killing person for shoving you over, is frowned upon and penance is awarded, but in vases where it's you vs. them, defending yourself isn't punished.
-
-<h5>Refusal to Tithe</h5> means that Hold will no longer fall under the Weyr’s protection. All riders in that Hold will leave, they refuse to assist them in projects or bringing in supplies from Crafthalls. The Hold boundary is marked [usually by searing the ground around it and this is repeated until Tithe is given] if they still refuse to Tithe, the Weyr will then inform the Crafthalls and the Crafthalls will then pull their crafters out of that Hold.
-<h4><b>During a bad Tithe Season a Hold will do 3 steps:</b></h4>
-- Send the Weyrwoman a letter in writing explaining the situation
-- Send an Envoy of the Heir to the Hold, and it is done deliberately to show that the future of the Hold is now in their care because the tithe was bad. The Heir/Heiress is obligated to go with a rider to explain to every Minor and Major hold [Cotholds do not apply] under a Weyr’s protection- to ask for aide for both the Weyr and their Hold.
-- Once the bad harvest has passed, the Hold will then send out Goods and Tithe to the Other Holds that aided them as Thanks.
-
-
-
-
 
