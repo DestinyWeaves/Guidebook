@@ -89,7 +89,7 @@ Mass project was started to ramp up blackrock\[coal\] production as the Winter w
 
 Kalvi, succeed by Tomdin.
 
-### Sixth Interval \- Long Interval
+### Sixth Interval - Long Interval
 
 Minecraft, having found that a new fuel source created by woodcrafters was pushing blackrock out of favor for home heating, found that they were missing that revenue stream and began to expand their ore and stone searches. Their search proved very fruitful, finding a vein of black diamond, several new ore pits for iron and blackrock and even some deposits of sapphires, emeralds and rubies. But perhaps one of their biggest finds was a sulfur pit just North of Crom up in the Wastes. But mining the sulfur proved not only dangerous but lethal in some cases. It was stated that Wher bonded Miners could go but only with specialist equipment as gasses released by mining the sulfur were so concentrated they burn the eyes and throat, and can eventually dissolve the miners' teeth. 
 
