@@ -6,6 +6,9 @@ plugins:
   - jekyll-remote-theme
 remote_theme: just-the-docs/just-the-docs
 
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.png"
+
 title: Destiny Weaves Guidebook
 description: Guidebook for the Destiny Weaves Pern Roleplay Game on JcInk
 aux_links:
