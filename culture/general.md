@@ -50,7 +50,7 @@ Dragons are a part of the culture and are only Impressible at a <b>Weyr</b>. The
 Dragonriders do have places for growing food, and medicine, have and an entire small town’s worth of support staff.
 The Holds under a Weyr’s protection pay tithe to that Weyr - think of it as paying your city taxes to the county in which you live.
 
-## Pernese Culture & Customs
+## Conversation
 Pern Culture tends to be a bit ‘static’, there are changes and the like but things move a bit more like a traditional “medieval” world, than a fantasy world.
 
 In polite conversation, or a formal setting (i.e. writing a letter) you would say/write: Rank, name then craft for anyone Journeyman and below. I.e: Apprentice Melisan of  Weaver Hall. For referring to a Master, you’d put Master Craft Name. IE: Master Harper Honila. If you’re writing to the CraftMaster, then you’d put: Craft Master Name of Crafthall. IE: CraftMaster Obiton of Harperhall
