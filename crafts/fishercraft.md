@@ -1,7 +1,7 @@
 ---
 title: Fishercraft
 parent: Crafts
-nav_order: 50
+nav_order: Fishercraft
 ---
 
 # Fishercraft

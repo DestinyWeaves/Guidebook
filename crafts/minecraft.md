@@ -1,7 +1,7 @@
 ---
 title: Minecraft
 parent: Crafts
-nav_order: 50
+nav_order: Minecraft
 ---
 
 # Minecraft

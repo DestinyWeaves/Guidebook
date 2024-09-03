@@ -1,7 +1,7 @@
 ---
 title: Winecraft
 parent: Crafts
-nav_order: 50
+nav_order: Winecraft
 ---
 
 # Winecraft

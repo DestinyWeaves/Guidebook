@@ -1,7 +1,7 @@
 ---
 title: Tannercraft
 parent: Crafts
-nav_order: 50
+nav_order: Tannercraft
 ---
 
 # Tannercraft

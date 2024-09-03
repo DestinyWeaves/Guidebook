@@ -1,7 +1,7 @@
 ---
 title: Weavercraft
 parent: Crafts
-nav_order: 50
+nav_order: Weavercraft
 ---
 
 # Weavercraft

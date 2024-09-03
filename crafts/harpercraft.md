@@ -1,7 +1,7 @@
 ---
 title: Harpercraft
 parent: Crafts
-nav_order: 50
+nav_order: Harpercraft
 ---
 
 # Harpercraft

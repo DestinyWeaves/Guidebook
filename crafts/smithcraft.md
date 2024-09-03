@@ -1,7 +1,7 @@
 ---
 title: Smithcraft
 parent: Crafts
-nav_order: 50
+nav_order: Smithcraft
 ---
 
 # Smithcraft

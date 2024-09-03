@@ -1,7 +1,7 @@
 ---
-title: Dragon Healercraft
+title: Dragonhealing
 parent: Crafts
-nav_order: 50
+nav_order: Healercraft-Dragon
 ---
 
 # Dragon Healercraft

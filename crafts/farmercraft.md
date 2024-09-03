@@ -1,7 +1,7 @@
 ---
 title: Farmercraft
 parent: Crafts
-nav_order: 50
+nav_order: Farmercraft
 ---
 
 # Farmercraft

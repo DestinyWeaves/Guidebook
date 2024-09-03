@@ -1,7 +1,7 @@
 ---
 title: Beastcraft
 parent: Crafts
-nav_order: 50
+nav_order: Beastcraft
 ---
 
 # Beastcraft
