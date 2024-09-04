@@ -15,9 +15,9 @@ Technical components related to the just-the-docs Github Pages theme are release
 
 Markdown is easy enough to read, but if you want to preview the site with changes before you submit, you can do so by running a local development copy. You software devs out there will almost certainly have your own ideas and opinions about how you'll want to do that, but for everyone else:
 
-1. Open PowerShell, and run:
+1. Open CMD or PowerShell, and run:
    
-   ```cmd
+   ```
    winget install Microsoft.VisualStudioCode Git.Git RubyInstallerTeam.RubyWithDevKit.3.2
    ```
    
