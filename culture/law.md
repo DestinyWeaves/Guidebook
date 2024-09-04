@@ -3,17 +3,13 @@ title: Law
 parent: Culture
 ---
 
-# 
+# Law
 
 Recommended Reading:
+- [The Illustrated Guide to Law](http://lawcomic.net/)
+- [The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs)
 
-[The Illustrated Guide to Law](http://lawcomic.net/)
-
-[The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs)
-
-Pern’s official canon does not go into depth on how its laws work; but for Destiny Weaves specifically…
-
-# Law
+Pern’s official canon does not go into depth on how its laws work; therefore, for Destiny Weaves specifically...
 
 ## Blackletter
 
