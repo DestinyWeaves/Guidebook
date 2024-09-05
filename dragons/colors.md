@@ -70,7 +70,7 @@ Sex
 : Female or Male
 
 Clutch Size
-: 1 - 10
+: 1 - 12
 
 Impresses to
 : Men and Women
@@ -123,7 +123,7 @@ Sex
 : Female or Male
 
 Clutch Size 
-: 1 - 10
+: 1 - 12
 
 Impresses to
 : Men and Women
@@ -169,7 +169,7 @@ Sex
 : Male
 
 Impresses to
-: Men and Women, although they do prefer to bond with men. 
+: Men and Women, bias towards men.
 
 # Aster
 A female dragon with bright hues,  usually pink and purple, a bright and colorful dragon. They are most often associated with  mind healers as the cheerful colors seem to brighten up most people's day. While not quite enough to fly full fall, they are typically called upon when moving people, and more often goods at least when thread not falling.  They have the stamina to fly long distances, and thus make great long distance messagers.
@@ -231,30 +231,6 @@ Sex
 Impresses to
 : Men and Women
 
-# Green
-Greens are the most numerous dragons in a Weyr, quick [not as quick as blues admittedly] and exceptionally agile, they make the perfect stop gap in a wing formation. With their ability to twist themselves into impossible positions during flight their fighting niche is ‘weave the gap’ between the bigger dragons to stop thread coming through their formation. Greens can and often do serve messengers for Holds and Weyr, although they generally stick to difficult terrain entries with their sense to tuck wing and twist, they’re able to move themselves through what looks to be impossibly tight gaps that would have others hesitating or even refusing to attempt it. 
-
-As greens are very mobile and able to twist themselves into weird and wonderful positions, it's noted that many greenriders have to keep an eye on their dragons to ensure they don’t end up getting stuck [this has yet to happen though], since greens will contort themselves claiming it's comfortable. Greens are perhaps the flashiest flyers in the Weyr, with their movements being mesmerizing to watch. If a hold has a celebration, greens will be the ones doing the overheard ‘displays’ with feats of impossible and amazing feats in the air. 
-
-Color ranges from a pale tea green to a very dark sacramento green
-Height
-: 6 - 8 ft 
-
-Length
-: 18 - 24 ft
-
-Wingspan
-: 12 - 16 ft
-
-Sex 
-: Female
-
-Clutch Size
-: 1-4 
-
-Impresses to
-: Men and women
-
 # Ixia
 Come in Male & female.
 Born of the Sixth’s pass surge of ‘new’ colors, these dragons straddle a noticeable line, almost blue & green enough to fall into either category. The Ixias fill an important space between Blues and Greens. They stretch into Blue and Green ranges, a combination of Speed and Agility- they get the best of both worlds although they aren't as good. They’re faster than greens, but not as fast as blue. They’re more agile than blue, but not the same level as a green. They are ultimately used to fill in spaces in Wings, where you may need a blue or a green as they can cover both roles. 
@@ -276,8 +252,34 @@ Sex
 : Female or Male
 
 Clutch Size
-: 1-4
+: 1-6
 
 Impresses to
 : Men and Women
+
+
+# Green
+Greens are the most numerous dragons in a Weyr, quick [not as quick as blues admittedly] and exceptionally agile, they make the perfect stop gap in a wing formation. With their ability to twist themselves into impossible positions during flight their fighting niche is ‘weave the gap’ between the bigger dragons to stop thread coming through their formation. Greens can and often do serve messengers for Holds and Weyr, although they generally stick to difficult terrain entries with their sense to tuck wing and twist, they’re able to move themselves through what looks to be impossibly tight gaps that would have others hesitating or even refusing to attempt it. 
+
+As greens are very mobile and able to twist themselves into weird and wonderful positions, it's noted that many greenriders have to keep an eye on their dragons to ensure they don’t end up getting stuck [this has yet to happen though], since greens will contort themselves claiming it's comfortable. Greens are perhaps the flashiest flyers in the Weyr, with their movements being mesmerizing to watch. If a hold has a celebration, greens will be the ones doing the overheard ‘displays’ with feats of impossible and amazing feats in the air. 
+
+Color ranges from a pale tea green to a very dark sacramento green
+Height
+: 6 - 8 ft 
+
+Length
+: 18 - 24 ft
+
+Wingspan
+: 12 - 16 ft
+
+Sex 
+: Female
+
+Clutch Size
+: 1-6 
+
+Impresses to
+: Men and women
+
 
