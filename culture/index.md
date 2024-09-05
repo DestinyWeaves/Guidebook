@@ -20,7 +20,7 @@ nav_order: 20
 <li> An Interval is 200 Turns where no Thread falls</li>
 <li> A long interval is 400 Turns</li></ul>
 
-<ul><b><h3>Pern has <b>three</b> main “cultures”</b></ul></h3>
+<ul><b><h3>Pern has <b>three</b> main “cultures”</ul></h3>
 <h4>Holds</h4><ul>
 <li> Medieval towns built into the base and heart of mountainous bedrock, a majority of a Hold is ‘underground’ covered by a mountain</li>
 <li> Holdfolk are comprised of people who are not bonded to dragons, they usually have a Craft.</li>
@@ -31,7 +31,7 @@ nav_order: 20
 <li>Divorce is a very uncommon thing to happen. Divorce can only happen if a history of abuse is shown and proven. A breakdown due to lack of love isn’t considered a valid reason for divorce. This is why marriage between holders takes a very long time before the ceremony comes to light.</li> 
 </ul>
 <h4>Halls</h4>
-<ul><li>The Centers of Learning, think of it a Medieval Apprenticeship, with a guild, called a “Crafthall”</li>
+<ul><li>The Centers of Learning, think of it as a Medieval Apprenticeship, with a guild, called a “Crafthall”</li>
 <li>All Crafthalls have a Master Crafter. The MASTER of their Hall, each craft has a central hall. Holdcraft usually means one lacks the ‘formal’ training.</li>
 <li> Apprentices join around age 12.US/UK: High School Profficency</li>
 <li> Journeyman is the next step by “Walking the Tables” around 20-25- US: Bachelors/ UK: Undergrad</li>
