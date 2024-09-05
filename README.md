@@ -1,7 +1,7 @@
 # Destiny Weaves Guidebook
 
 This is the guidebook for Destiny Weaves, a semi-literate play-by-post text roleplay game set in the Pern universe and operated through JCINK and Discord.
-The guidebook itself is hosted through Github Pages at https://destinyweaves.github.io/Guidebook/; what you see here is the source repository that generates that site.
+The guidebook itself is hosted through Github Pages at https://destinyweaves.github.io/guidebook/; what you see here is the source repository that generates that site.
 
 This guidebook is meant to introduce players to the concept of text roleplay, to set expectations about how players should participate, and provide details about the world of Pern specific to Destiny Weaves, especially regarding the time period it's set in (8th pass) and the areas where it deviates from Ann McCaffrey's original world.
 
