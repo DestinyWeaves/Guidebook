@@ -74,7 +74,7 @@ So other avenues of mating were attempted but it was found that getting a dragon
 
 ### Mating Flight
 
-When a female comes into estrus, she will show signs of irritability, a warmer than usual body temperature, their hide will appear to glow and pulsate before instinct will come into play and have the female want to feed then take flight. It's an accepted thing that riders will mentally fight with their dragon to ensure that they blood their kill, rather than take meat as eating meat would weigh them down and put the dragon at risk of starting to breed and it ending with impact into the ground at high speed.
+When a female comes into estrus, she will show signs of irritability, a warmer-than-usual body temperature, their hide will appear to glow and pulsate before instinct will come into play and have the female want to feed then take flight. It's an accepted thing that riders will mentally fight with their dragon to ensure that they blood their kill, rather than take meat as eating meat would weigh them down and put the dragon at risk of starting to breed and it ending with impact into the ground at high speed.
 
 During a copulation flight, both dragons will stretch their wings out to slow their descent towards the ground so that they can finish mating before needing to split apart. It’s thought that a longer, higher flight means more eggs, with a better color spread.
 
@@ -106,7 +106,7 @@ Feathers, extra limbs are lethal mutations.
 ## Gold
 Golds tend to stick to being mothers, ferociously protective and even territorial with being on the sands and their mates during rising. Like with people, there are shades of grey in personalities, a gold may hatch that has absolutely no interest in being a mother, and in other cases, it may be all the gold wants to do. With this in mind, Golds are well known for going into the hatching sands and pushing other dragons off the sands to take over the clutch as they aren’t capable of producing flame; some golds feel it's their duty to take care of the next generation.
 
-Having been around and treated with deference and awe, some of the golds never forgot this but that position of power resulting from the hide has gone for a long time.  Thus golds have found a new purpose as they cannot flame, some of their jobs has become minding the ill and injuried and the eggs. They fly threadfall in the Queens’ wing, which a low-altitude wing, designed for rescues mostly.
+Some of the golds never forgot this, having been around and treated with deference and awe. However, that position of power resulting from the hide has gone for a long time. Thus, golds have found a new purpose as they cannot flame. Some of their jobs have become minding the ill, injured, and eggs. They fly thread falls in the Queens’ wing, which is a low-altitude wing designed mostly for rescues.
 
 Physically, they’re known for being one of the biggest dragons on Pern, [don’t tell Cath that she’s smaller than Pireth, she’ll throw a fit] and tend to garner a lot of attention, especially with the stronger metallic shine to their hides.
 
@@ -154,7 +154,7 @@ Clutch
 ## Bronze
 Bronzes, ahhh what can we see about these nobles dragons? They’re not as egotistical as you think. In fact, most tend to be pretty humble, although they’d be the first to dive head first to threadfall to prove their worth. Like all other colors, Bronze vary widely in personality and a generally consistent trait is that if their bonded is being cruel/mean/egostical, the bronze will dump them in the Weyrlake to ‘cool off’. They’re also well known in choosing to ignore their riders for trying to allow their egos to take over. A large number of bronzes are also well known for likin’ their ladies, its a rare thing indeed to see a bronze sticking to only ONE dragon. 
 
-Its also well known that bronzes sire golds, oftentimes more successfully than any other color. In thread, they tend to form the foundation of a wing, being strong steadfast points of reference during fights, with large flame sacs they’re able to both chew more firestone and sustain their flame for longer. 
+Its also well known that bronzes sire golds, often times more successfully than any other color. In thread, they tend to form the foundation of a wing, being strong steadfast points of reference during fights, with large flame sacs they’re able to both chew more firestone and sustain their flame for longer. 
 
 Colour
 : Range from antique bronze to sandy bronze, a golden bronze and darkening to American Bronze. 
