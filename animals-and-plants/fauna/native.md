@@ -15,11 +15,14 @@ Furbeasts
 : These small mammals are usually trapped for their fur and meat. They’re not really separated by name or by their characteristics, so hopping furbeasts are rabbits, slinky furbeasts are similar to minks, squeaky furbeasts are considered a cross between a squirrel and mouse. 
  
 Whersports
-: Look like a cross between Firelizards and Whers, but smaller than Wher and bigger than firelizard. No bonding ability. Lives in herds of 2-16, harem like. Hunted for its hide, but is considered lesser quality than actual Watch-wher hide but costs far less.
+: Look like a cross between Firelizards and Whers, but smaller than Wher and bigger than firelizard. No bonding ability. Lives in herds of 2-16, harem-like. It is hunted for its hide, but is considered lesser quality than actual Watch-wher hide but costs far less.
 
 ### Bugs and Insects
 Tunnelsnakes/Sandsnakes/Watersnakes
 : Cold blooded, reptilian creatures with six limbs. Some species’ bites are more venomous than others, but most aren't particularly dangerous. 
+
+Buzzer
+:Native pern bee, looks more like a wasp, acts like honey bees. Skybroom cohabitation & caves are common place to find  Buzzer., Some have been domesticated since the Colonists, and there are a few varieties of domesticated buzzers.
 
 Vetols
 : (VTOLs) So named by the Exploration team because of their ability to take off from the ground much like Terran helicopters, these insects are usually iridescent, much like dragonflies. 
