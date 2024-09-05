@@ -6,6 +6,8 @@ nav_order: Winecraft
 
 # Winecraft
 
+writing about winecraft
+
 ## Location
 
 ##  History
