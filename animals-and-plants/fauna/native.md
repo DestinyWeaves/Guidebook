@@ -22,7 +22,7 @@ Tunnelsnakes/Sandsnakes/Watersnakes
 : Cold blooded, reptilian creatures with six limbs. Some species’ bites are more venomous than others, but most aren't particularly dangerous. 
 
 Buzzer
-:Native pern bee, looks more like a wasp, acts like honey bees. Skybroom cohabitation & caves are common place to find  Buzzer., Some have been domesticated since the Colonists, and there are a few varieties of domesticated buzzers.
+: Native pern bee, looks more like a wasp, acts like honey bees. Skybroom cohabitation & caves are common place to find  Buzzer., Some have been domesticated since the Colonists, and there are a few varieties of domesticated buzzers. They come in a variety of colors.
 
 Vetols
 : (VTOLs) So named by the Exploration team because of their ability to take off from the ground much like Terran helicopters, these insects are usually iridescent, much like dragonflies. 
